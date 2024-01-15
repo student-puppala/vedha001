@@ -1,2 +1,2 @@
 # vedha001
-This is my first Github Rsepirotary
+This is my first Github Respirotary
